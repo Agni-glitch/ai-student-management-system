@@ -1,0 +1,56 @@
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Vite
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ML Models
+backend/ml/saved_models/*.pkl
+backend/ml/saved_models/*.joblib
+!backend/ml/saved_models/.gitkeep
+
+# Logs
+*.log
