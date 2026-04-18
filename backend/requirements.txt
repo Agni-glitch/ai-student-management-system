@@ -7,14 +7,13 @@ Flask-CORS==4.0.0
 Flask-SQLAlchemy==3.1.1
 
 # Database
-PyMySQL==1.1.0
-mysqlclient==2.2.0
+PyMySQL>=1.1.0
 
 # Machine Learning
-scikit-learn==1.3.2
-pandas==2.1.3
-numpy==1.26.2
-joblib==1.3.2
+scikit-learn
+pandas
+numpy
+joblib
 
 # Data Validation
 marshmallow==3.20.1
