@@ -143,8 +143,8 @@ student-analytics-app/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
+git clone https://github.com/Agni-glitch/ai-student-management-system.git
+cd ai-student-management-system
 ```
 
 ### 2. Database Setup
@@ -175,7 +175,7 @@ cp .env.example .env
 # Edit .env with your database credentials
 
 # Run backend
-python app.py
+python run.py
 # Backend runs at http://localhost:5000
 ```
 
@@ -338,15 +338,7 @@ npm test
 
 ---
 
-## 📝 Documentation
 
-Detailed documentation available in:
-- [Setup Instructions](./SETUP-INSTRUCTIONS.md)
-- [API Documentation](./docs/API.md)
-- [Database Schema](./docs/DATABASE.md)
-- [ML Model Details](./docs/ML-MODELS.md)
-
----
 
 ## 🤝 Contributing
 
@@ -366,9 +358,9 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Agni-glitch**
+- GitHub: [@Agni-glitch](https://github.com/Agni-glitch)
+- Email: [agniroybar@gmail.com]
 
 ---
 
@@ -383,11 +375,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 📞 Support
 
-For support, email support@example.com or join our Slack channel.
-
----
-
-**⭐ If you found this project helpful, please give it a star!**
+For support, email [agniroybar@gmail.com].
 
 ---
 
